@@ -1,0 +1,6 @@
+.header {
+    display: flex;
+    background: no-repeat url("../../images/header-content.jpg" );
+    background-size: cover;
+    width: 100%;
+}
