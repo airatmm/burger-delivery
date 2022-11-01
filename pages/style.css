@@ -21,3 +21,5 @@
 @import url(../blocks/food-list/__image/food-list__image.css);
 @import url(../blocks/food-list/__title/food-list__title.css);
 @import url(../blocks/food-list/__description/food-list__description.css);
+@import url(../blocks/order/order.css);
+@import url(../blocks/order/__items/order__items.css);
