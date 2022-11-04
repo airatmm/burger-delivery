@@ -1,0 +1,6 @@
+.order__items {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 158px;
+}
