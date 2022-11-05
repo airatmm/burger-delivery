@@ -23,3 +23,7 @@
 @import url(../blocks/food-list/__description/food-list__description.css);
 @import url(../blocks/order/order.css);
 @import url(../blocks/order/__items/order__items.css);
+@import url(../blocks/order/__title/order__title.css);
+@import url(../blocks/order/__text/order__text.css);
+@import url(../blocks/order/__price/order__price.css);
+@import url(../blocks/order/__price/--old/order__price--old.css);

@@ -1,0 +1,9 @@
+.order__text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    opacity: 0.7;
+    max-width: 368px;
+    margin: 0;
+    padding: 0 0 13px 0;
+}

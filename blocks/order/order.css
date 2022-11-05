@@ -1,4 +1,6 @@
 .order {
     background-color: #312F30;
+    max-width: 1600px;
     padding: 0 0 43px 0;
+    margin: 0 auto;
 }

@@ -1,0 +1,9 @@
+.order__price {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.1em;
+    color: #F6762C;
+    margin: 0;
+    padding:0 0 11px 0;
+}
