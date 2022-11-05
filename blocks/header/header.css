@@ -2,12 +2,8 @@
     display: flex;
     justify-content: center;
     background: no-repeat center url("../../images/header-content.jpg" );
-    background-size: contain;
+    background-size: cover;
     width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
 }
-
-/*@media (min-width: 1601px) {*/
-/*    .header{*/
-/*    background-size: contain;*/
-/*    }*/
-/*}*/

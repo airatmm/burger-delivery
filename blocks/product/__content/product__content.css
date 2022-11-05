@@ -1,0 +1,8 @@
+.product__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    grid-area: 1/1;
+    padding: 0 10px 0 290px;
+    max-width: 240px;
+}

@@ -1,0 +1,4 @@
+.product__item {
+    position: relative;
+    display: grid;
+}
