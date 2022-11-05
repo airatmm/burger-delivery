@@ -1,0 +1,6 @@
+.download-menu__items {
+    display: flex;
+    flex-direction: row;
+    gap: 422px;
+    align-items: center;
+}
