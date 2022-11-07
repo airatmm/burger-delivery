@@ -1,0 +1,5 @@
+.footer__column-link--contacts {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
