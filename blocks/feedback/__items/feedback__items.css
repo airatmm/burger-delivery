@@ -2,5 +2,6 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 118px
+    width: 100%;
+    justify-content: space-evenly;
 }
