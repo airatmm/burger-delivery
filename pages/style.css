@@ -55,10 +55,11 @@
 @import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-list/footer__column-list.css);
+@import url(../blocks/footer/__column-list/--contacts/footer__column-list--contacts.css);
 @import url(../blocks/footer/__column-list-item/footer__column-list-item.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__contacts-icon/footer__contacts-icon.css);
-@import url(../blocks/footer/__column-list/--contacts/footer__column-link--contacts.css);
+@import url(../blocks/footer/__column-link/--contacts/footer__column-link--contacts.css);
 @import url(../blocks/footer/__social-icons/footer__social-icons.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
